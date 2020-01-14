@@ -105,11 +105,8 @@ venv.bak/
 
 .vscode
 !checkpoints/
-!checkpoints/Cityscapes/
 checkpoints/Cityscapes/*
 !dataset/
-!dataset/Cityscapes/
-!dataset/KITTI/
 dataset/Cityscapes/*
 dataset/KITTI/*
 !runs/
