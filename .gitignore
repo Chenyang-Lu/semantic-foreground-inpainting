@@ -104,7 +104,13 @@ venv.bak/
 .mypy_cache/
 
 .vscode
+!checkpoints/
+!checkpoints/Cityscapes/
 checkpoints/Cityscapes/*
+!dataset/
+!dataset/Cityscapes/
+!dataset/KITTI/
 dataset/Cityscapes/*
 dataset/KITTI/*
+!runs/
 runs/*
